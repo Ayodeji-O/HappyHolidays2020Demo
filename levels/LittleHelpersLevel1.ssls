@@ -1,0 +1,34 @@
+{ "builtInBackdrop": "BuiltInTexture_GroutedStoneBackdrop" }
+{ "tileSymbol": "-", "contactDamage": 0.0, "frictionCoefficient": 1.0, "builtInTexture": "BuiltInTexture_BrownCoarseStone" }
+{ "tileSymbol": ".", "contactDamage": 0.0, "frictionCoefficient": 1.0, "builtInTexture": "BuiltInTexture_TreeBark" }
+{ "tileSymbol": "/", "contactDamage": 0.0, "frictionCoefficient": 1.0, "builtInTexture": "BuiltInTexture_GreenMutedScale" }
+{ "tileSymbol": "x", "contactDamage": 0.0, "frictionCoefficient": 1.0, "builtInModel": "BuiltInModel_LegoLeftArm", "elementType": "ElementType_Goal" }
+@@@:::@@@
+-
+-
+-                                                                                                                                                                -
+-                                                                                                                                                                -
+-                                                                                                                                                                -
+-                                                                                                                                                                -
+-                                                                                                                                                                -
+-                                                                                                                                                                -
+-                                                                                                                                                                -
+-                                                                                                                                                                -
+-                                                                                                                                                                -
+-                                                                                                                                                                -
+-                                                                                                                                                                -
+-                                                                                                                                                                -
+-                                                                                                                                                                -
+-                                                                                                                  x                                             -
+-                                                                                                                                                                -
+-                                                                                                                  /                                             -
+-                                                                                                                  /                                             -
+-                                                                                                                 ///                                            -
+-                                                                                                                 ///                                            -
+-                                                                                                   --           /////                                           -
+-                                                                                                 --             /////                                           -
+-                     --------          ------------------------------          ----------                      ///////                                          -
+-              --                                                                                               ///////                                          -
+-            --  --                                                                                               ///                                            -
+-                                                                        --                                        .                                             -
+------------------------------------------------------------------------------------------------------------------------------------------------------------------

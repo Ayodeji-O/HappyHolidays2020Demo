@@ -1,0 +1,44 @@
+{ "builtInBackdrop": "BuiltInTexture_RustyMetalPanelBackdrop" }
+{ "tileSymbol": "-", "contactDamage": 0.0, "frictionCoefficient": 1.0, "builtInTexture": "BuiltInTexture_MetalDiamondPlate" }
+{ "tileSymbol": "+", "contactDamage": 0.0, "frictionCoefficient": 0.4, "builtInTexture": "BuiltInTexture_MetalBrushed" }
+{ "tileSymbol": "r", "contactDamage": 0.0, "frictionCoefficient": 1.0, "builtInModel": "BuiltInModel_LegoRightArm", "elementType": "ElementType_Goal" }
+{ "tileSymbol": "l", "contactDamage": 0.0, "frictionCoefficient": 1.0, "builtInModel": "BuiltInModel_LegoLeftArm", "elementType": "ElementType_Goal" }
+{ "tileSymbol": "x", "contactDamage": 0.0, "frictionCoefficient": 1.0, "builtInModel": "BuiltInModel_LegoHead", "elementType": "ElementType_Goal" }
+{ "tileSymbol": "^", "contactDamage": 10.0, "frictionCoefficient": 1.0, "builtInModel": "BuiltInModel_EnemyGrinch", "elementType": "ElementType_Enemy", "initMovementVelocityHoriz": 0.0, "initMovementVelocityVert": -1.0}
+@@@:::@@@
+-                                                                                                                                                                                                                      -
+-                                                                                                                                                                                                                      -
+-                                                                                                                                                                                                                      -
+-                                                                                                                                                                                                                      -
+-                                                                                                                                                                                                                      -
+-                                                                                                                                                                                                                      -
+-                                                                                                                                                                                                                      -
+-                                                                                                                                                                                                                      -
+-                                                                                                                                                                                                                      -
+-                                                                                                                                                                                                                      -
+-                                                                                                                                                                                                                      -
+-                                                                                                                                     x                                                                                -
+-                                                                                                                                                                                                                      -                                                                                                                                    -
+-                                                                                                                                     ++                                                                               -
+-                                                                                                                                        ++                       ---------  +++++  ----- ++                           -
+-                                                                                                                                            ++          ------                                                        -
+-                                                                                                                                                     ++                                     ++   l                    -
+-                                                                                                                                                  ++                                                                  -
+-                                                                                                                                                ++                                              ++                    -
+-                                                                                                                                           +++++                                                                      -
+-                                                 -----------------------------        --------------     ++++++    -----------------------                                                                            -
+-                                              ++                                                                                                                      r                                               -
+-                                         +++                                                                                                                                                                          -
+-                                   ----                                                     ^                        ^                                        +  +  +  +                                              -
+-                +++++     +++++                                                                                                                         ++                                                            -
+-            +++                                                                                                                                    ++                                                                 -
+-                                                                                                                                              ++                                                                      -
+-     ++                                                                                                                                  ++                                                                           -
+-                                                                                                                            ++  ++  ++                                                                                -
+-          ++                          +++  -------     +++++       ++   ++      -----------------    ++++    ++++++++++++                                                                                             -
+-              ---                 ++                                                                                                                                                                                  -
+-                              ++                                                                                                                                                                                      -
+-                      ++                                                                                                                                                                                              -
+-                   ++                                                                                                                                                                                                 -
+-                        ++                                                                                                                                                                                            -
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

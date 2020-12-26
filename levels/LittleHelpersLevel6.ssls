@@ -1,0 +1,46 @@
+{ "builtInBackdrop": "BuiltInTexture_ChiseledIceBackdrop" }
+{ "tileSymbol": ">", "contactDamage": 0.0, "frictionCoefficient": 1.0, "builtInTexture": "BuiltInTexture_LeftEdgeSoilWall" }
+{ "tileSymbol": "<", "contactDamage": 0.0, "frictionCoefficient": 1.0, "builtInTexture": "BuiltInTexture_RightEdgeSoilWall" }
+{ "tileSymbol": "-", "contactDamage": 0.0, "frictionCoefficient": 1.0, "builtInTexture": "BuiltInTexture_SnowCappedSoil" }
+{ "tileSymbol": "+", "contactDamage": 0.0, "frictionCoefficient": 0.07, "builtInTexture": "BuiltInTexture_IceBlock" }
+{ "tileSymbol": "u", "contactDamage": 0.0, "frictionCoefficient": 1.0, "builtInModel": "BuiltInModel_LegoTorso", "elementType": "ElementType_Goal" }
+{ "tileSymbol": "o", "contactDamage": 0.0, "frictionCoefficient": 1.0, "builtInModel": "BuiltInModel_LegoLeftLeg", "elementType": "ElementType_Goal" }
+{ "tileSymbol": "x", "contactDamage": 0.0, "frictionCoefficient": 1.0, "builtInModel": "BuiltInModel_LegoHead", "elementType": "ElementType_Goal" }
+{ "tileSymbol": "^", "contactDamage": 10.0, "frictionCoefficient": 1.0, "builtInModel": "BuiltInModel_EnemyCoronaVirus", "elementType": "ElementType_Enemy", "initMovementVelocityHoriz": 0.0, "initMovementVelocityVert": 2.0}
+@@@:::@@@
+>                                                                                                                                                                                                                      <
+>                                                                                                                                                                                                                      <
+>                                                                                                                                                                                                                      <
+>                                                                                                                                                                                                                      <
+>                                                                                                                                                                                                                      <
+>                                                                                                                                                                                                                      <
+>                                                                                                                                                                                                                      <
+>                                                                                                                                                                                                                      <
+>                                                                                                                                                                                                                      <
+>                                                                                                                                                                                                                      <
+>                                                                                                                                                                                             u                        <
+>                                                                                                                                                                                                                      <
+>                                                                                                                                                                                           -----                      <
+>                                                                                                                                                                                                                      <
+>                               -----------------------                                                                                       ++++++++++++++++++++++   ----+++   --------                              <
+>                                                                                                                                                                                                                      <
+>                                                                                                                                    ++++++                                                                            <
+>            x                                                                                                         ---------                                                                                       <
+>                                                                                                  +++++     +++++                                                                                                     <
+>           ---                                                                                                                                                                                                        <
+>                                                   ^                               ++++++++++++                                                                                                                       <
+>      -                                    ^                                                                                                                                                                          <
+>       -                           ^                       ----------------------                                           --------                                                                                  <
+>        --                                                                                                                                                                                                            <
+>                               ------+++++----+++++---                                                                                                                   o                                            <
+>          ---         ---                                                                                                                                                                                             <
+>                                                                                                                                                                      -------                                         <
+>              ---                                                                                                                                            ++++                                                     <
+>                                                                                                                                                    +++++++                                                           <
+>                    ---                                                                                                                                       ^                                                       <
+>                                                            -------------++++++++       +++++-       ---------++++++++++++++    ^    -----------                                                                      <
+>                             ---                     ---                                                                                                                                                              <
+>                                         ----                                                                                                                                                                         <
+>                         ---          ---    ---                                                                                                                                                                      <
+>                                                                                                                                                                                                                      <
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
